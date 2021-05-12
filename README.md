@@ -39,8 +39,8 @@
 - 📫 You can reach me via email - rafal.lazicki99@gmail.com
 </br>
 
-[![Rafał's github stats](https://github-readme-stats.vercel.app/api?username=Raff-dev&theme=dracula&title_color=fff&bg_color=0,3f5efbbb,fc466ba0&show_icons=true&line_height=30&hide=issues,contribs)](https://github.com/PrzemyslawSarnacki/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raff-dev&layout=compact&theme=dracula&title_color=fff&bg_color=0,fc466ba0,3f5efbbb&line_height=27&hide=html,css,jupyter%20notebook)](https://github.com/Raff-dev/github-readme-stats)
+[![Rafał's github stats](https://github-readme-stats.vercel.app/api?username=Raff-dev&theme=light&show_icons=true&line_height=30&hide=issues,contribs)](https://github.com/PrzemyslawSarnacki/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raff-dev&layout=compact&theme=light&line_height=27&hide=html,css,jupyter%20notebook)](https://github.com/Raff-dev/github-readme-stats)
 <!--
 **Raff-dev/Raff-dev/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
