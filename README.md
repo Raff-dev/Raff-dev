@@ -40,7 +40,7 @@
 
 <h2 align="center">What am I up to?</h2>
 
-- 🔭 I’m currently working on e-commerce web application, mobile video game and a booking system</br>
+- 🔭 I’m currently working on e-commerce web application, mobile game and a booking app</br>
 - 🌱 I’m currently learning system design and team management</br>
 - 👯 I’m looking to collaborate on and pick up freelancing projects</br>
 </br>
