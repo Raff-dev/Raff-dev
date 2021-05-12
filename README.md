@@ -32,11 +32,17 @@
   </a>
 </div>
 </br>
+<p align="center">
+  <b>You can reach me via email 👉</b>
+  <a href="mailto:rafal.lazicki99@gmail.com">rafal.lazicki99@gmail.com 📫</a> 
+</p>
+</br>
 
-- 🔭 I’m currently working on e-commerce web application, mobile video game and a booking system
-- 🌱 I’m currently learning system design and team management
-- 👯 I’m looking to collaborate on and pick up freelancing projects
-- 📫 You can reach me via email - rafal.lazicki99@gmail.com
+<h2 align="center">What am I up to?</h2>
+
+- 🔭 I’m currently working on e-commerce web application, mobile video game and a booking system</br>
+- 🌱 I’m currently learning system design and team management</br>
+- 👯 I’m looking to collaborate on and pick up freelancing projects</br>
 </br>
 
 [![Rafał's github stats](https://github-readme-stats.vercel.app/api?username=Raff-dev&theme=light&show_icons=true&line_height=30&hide=issues,contribs)](https://github.com/PrzemyslawSarnacki/github-readme-stats)
