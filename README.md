@@ -38,12 +38,6 @@
 </p>
 </br>
 
-<h2 align="center">What am I up to?</h2>
-
-- 🔭 I’m currently working on e-commerce web application, mobile game and a booking app</br>
-- 🌱 I’m currently learning system design and team management</br>
-- 👯 I’m looking to collaborate on and pick up freelancing projects</br>
-</br>
 
 [![Rafał's github stats](https://github-readme-stats.vercel.app/api?username=Raff-dev&theme=light&show_icons=true&line_height=30&hide=issues,contribs)](https://github.com/PrzemyslawSarnacki/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raff-dev&layout=compact&theme=light&line_height=27&hide=html,css,jupyter%20notebook)](https://github.com/Raff-dev/github-readme-stats)
