@@ -8,11 +8,7 @@
 </h2>
 
 <div align="center">
-  
-  ![Visits Badge](https://badges.pufler.dev/visits/Raff-dev/Raff-dev?style=for-the-badge)</br>
   <h3>My name is <b>Rafał Łazicki</b> and I'm a software engineer.</h3>
-  I mainly focus on web development and machine learning.</br>
-  After work I train and compete as a powerlifter at international level 🥇</br>
   You can find me over here 👇</br></br>
 </div>
 <div align="center">
