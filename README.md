@@ -8,9 +8,14 @@
 </h2>
 
 <div align="center">
-  <h3>My name is <b>Rafał Łazicki</b> and I'm a software engineer specialized in backend web development, CI/CD, and integrations.</h3>
-  <h4>Fired up about LLMs and their posibillities.<h4>
-  <h4>Looking for PhD opportunities regarding GPT technology.<h4>
+  <h3>
+    My name is <b>Rafał Łazicki</b> and I'm a Python software engineer.<br/>
+    Specialized in Backend Web Development, CI/CD, and Integrations.
+  <h3>
+  <h4>
+    Actively looking for PhD opportunities where I can delve deeper into GPT technology.<br/>
+    Aiming to contribute to its advancement and application in real-world scenarios.
+  <h4>
   You can find me over here 👇</br></br>
 </div>
 <div align="center">
