@@ -16,15 +16,8 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a>
   </a>
-  <a href="https://raff-dev.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-up-%23.svg?&style=for-the-badge&logo=&logoColor=white%22" /> 
-  </a>
 </div>
 </br>
-<p align="center">
-  <b>You can reach me via email 👉</b>
-  <a href="mailto:rafal.lazicki99@gmail.com">rafal.lazicki99@gmail.com 📫</a> 
-</p>
 </br>
 
 <!--
