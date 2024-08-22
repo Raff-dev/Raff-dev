@@ -3,26 +3,28 @@
 
 
 -->
-<h2 align="center">
+<h2 >
 👋 Hello there! 👋
 </h2>
 
-<div align="center">
-  <h3>
-    My name is <b>Rafał Łazicki</b> and I'm a Python software engineer.<br/>
-    Specialized in Backend Web Development, CI/CD, and Integrations.
-  <h3>
-  <h4>
-    Actively looking for PhD opportunities where I can delve deeper into GPT technology.<br/>
-    Aiming to contribute to its advancement and application in real-world scenarios.
-  <h4>
+<div >
+    
+    I'm a Software Engineer and Entrepreneur.
+    Pursuing PhD in decision support systems using LLMs.
+    Developing AI based tools to help businesses grow.
+    Experienced with large amounts of data, software architecture, DevOps and web development.
+    Passionate about AI, sports, and building production-ready software.
+</div>
+<div >
   You can find me over here 👇</br></br>
 </div>
-<div align="center">
-  <a href="https://www.linkedin.com/in/rlazicki/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
-  </a>
-  </a>
+<div>
+  <ul>
+    <li>My website: <a href="https://www.rlazicki.com/">rlazicki.com</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/rlazicki/">rlazicki</a></li>
+    <li>Instagram: <a href="https://www.instagram.com/rflazicki">@rflazicki</a></li>
+    <li>X: <a href="https://x.com/rflazicki">@rflazicki</a></li>
+  </ul>
 </div>
 </br>
 </br>
