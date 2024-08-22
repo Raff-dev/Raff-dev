@@ -1,4 +1,4 @@
-    👋 Hello there! 👋
+    Hello there! 👋
     
     I'm a Software Engineer and Entrepreneur.
     Pursuing PhD in decision support systems using LLMs.
