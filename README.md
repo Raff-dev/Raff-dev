@@ -1,7 +1,6 @@
     Hello there! 👋
     
     I'm a Software Engineer and Entrepreneur.
-    Pursuing PhD in decision support systems using LLMs.
     Developing AI based tools to help businesses grow.
     Experienced with large amounts of data, software architecture, DevOps and web development.
     Passionate about AI, sports, and building production-ready software.
