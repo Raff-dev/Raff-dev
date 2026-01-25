@@ -9,8 +9,8 @@
 </div>
 <div>
   <ul>
-    <li>My website: <a href="https://www.rlazicki.com/">rlazicki.com</a></li>
-    <li>Mail: <a href="mailto:contact@rlazicki.com">contact@rlazicki.com</a></li>
+    <li>My website: <a href="https://www.awesomeworks.com/">rlazicki.com</a></li>
+    <li>Mail: <a href="mailto:hello@awesomeworks.com">contact@rlazicki.com</a></li>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/rlazicki/">rlazicki</a></li>
   </ul>
 </div>
