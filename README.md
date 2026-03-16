@@ -1,13 +1,13 @@
 <h1 align="center">Rafał Łazicki</h1>
 
 <p align="center">
-  <strong>Solo SaaS Founder • AI Systems Builder</strong><br/>
-  Building and shipping software using AI agents
+  <strong>AI Agent Engineer • Solo SaaS Founder</strong><br/>
+  Building SaaS products powered by AI agents
 </p>
 
 <p align="center">
   <a href="https://courseai.awesomeworks.ai">
-    <img src="https://img.shields.io/badge/CourseAI-build%20SaaS%20with%20AI-black?style=for-the-badge">
+    <img src="https://img.shields.io/badge/CourseAI-build%20SaaS%20with%20AI%20agents-black?style=for-the-badge">
   </a>
 </p>
 
@@ -22,37 +22,49 @@
 <br/>
 
 <p align="center">
-  I build SaaS products as a <strong>solo founder</strong> using AI agents as a development pipeline.
+  I design and build <strong>AI agent systems</strong> that help solo founders ship software faster.
 </p>
 
 <p align="center">
-  Instead of writing every feature manually, I design systems where AI helps generate code,
-  iterate quickly and ship continuously.
+  Instead of writing every feature manually, I operate AI agents as a development pipeline —
+  generating code, iterating quickly and shipping continuously.
 </p>
 
 <p align="center">
-  <strong>One developer operating with the leverage of a small team.</strong>
+  <strong>One engineer operating with the leverage of a small team.</strong>
 </p>
 
 <br/>
 
 <p align="center">
-  ⚡ <strong>Recent velocity</strong><br/>
+  ⚡ <strong>Recent build velocity</strong><br/>
   60+ features shipped • 190+ commits • built solo
 </p>
 
 <br/>
 
+<h3 align="center">🧠 Agent Systems I'm Building</h3>
+
 <p align="center">
-  🧠 <strong>Focus</strong><br/>
-  AI Agents • SaaS Architecture • Automation • Backend Systems
+  <strong>AI Development Pipeline</strong><br/>
+  agents generating code, features and iterations for SaaS development
+</p>
+
+<p align="center">
+  <strong>CallWise</strong><br/>
+  AI call analysis and conversation intelligence platform
+</p>
+
+<p align="center">
+  <strong>Founder AI Workflows</strong><br/>
+  agent-driven systems for building and operating SaaS products
 </p>
 
 <br/>
 
 <p align="center">
   📚 <strong>CourseAI</strong><br/>
-  Learn the exact system I use to ship SaaS features daily using AI agents
+  Learn how to build and operate SaaS using AI agents
 </p>
 
 <p align="center">
@@ -74,5 +86,5 @@
 <br/>
 
 <p align="center">
-  <i>How fast can one founder build SaaS?</i>
+  <i>How fast can one founder build SaaS with AI agents?</i>
 </p>
