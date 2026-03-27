@@ -12,9 +12,10 @@
 </p>
 
 <p align="center">
-  🚀 <a href="https://courseai.awesomeworks.ai">CourseAI</a> •
+  🚀 <a href="https://course.awesomeworks.ai">CourseAI</a> •
   🤖 <a href="https://callwise.awesomeworks.ai">CallWise</a> •
-  🌐 <a href="https://awesomeworks.ai">Website</a> •
+  📖 <a href="https://ask.awesomeworks.ai">Ask</a> •
+  🌐 <a href="https://awesomeworks.ai">AwesomeWorks.ai</a> •
   💼 <a href="https://linkedin.com/in/rlazicki">LinkedIn</a> •
   📸 <a href="https://instagram.com/raffcodes">Instagram</a>
 </p>
