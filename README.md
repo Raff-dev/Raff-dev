@@ -17,7 +17,7 @@
   📖 <a href="https://ask.awesomeworks.ai">Ask</a> •
   🌐 <a href="https://awesomeworks.ai">AwesomeWorks.ai</a> •
   💼 <a href="https://linkedin.com/in/rlazicki">LinkedIn</a> •
-  📸 <a href="https://instagram.com/raffcodes">Instagram</a>
+  📸 <a href="https://instagram.com/raffunderscore">Instagram</a>
 </p>
 
 <br/>
